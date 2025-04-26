@@ -3,7 +3,7 @@
 
 # Git Animals
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=1992choi&utm_content=farm">
-<img src="https://render.gitanimals.org/farms/1992choi" width="800" height="300" />
+<img src="https://render.gitanimals.org/farms/1992choi" width="600" height="300" />
 </a>
 
 # Repositories
