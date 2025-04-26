@@ -1,6 +1,15 @@
 # GitHub Stats
 ![1992choi's github stats](https://github-readme-stats.vercel.app/api?username=1992choi&show_icons=true&theme=dark)
 
+# Git Animals
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=1992choi&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/1992choi"
+  width="600"
+  height="300"
+/>
+</a>
+
 # Repositories
 ### today-i-learned
 - 다양한 강의학습 내용 정리
