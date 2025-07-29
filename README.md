@@ -34,9 +34,6 @@
 ### spring-jpa
 - Inflearn > 김영한 JPA
 
-### spring-vue
-- Spring + Vue3 학습
-
 ### spring-thymeleaf
 - Spring + Thymeleaf 학습
 
