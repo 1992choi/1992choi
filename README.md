@@ -1,7 +1,3 @@
-# GitHub Stats
-![1992choi's github stats](https://github-readme-stats.vercel.app/api?username=1992choi&show_icons=true&theme=dark)
-
-
 # Repositories
 ### today-i-learned
 - 다양한 강의학습 내용 정리
